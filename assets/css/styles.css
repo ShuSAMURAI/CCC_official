@@ -366,9 +366,9 @@ footer {
     align-items: flex-start;
   }
   .ccc-logo {
-  font-size: 4rem;       /* 4倍相当（元が1rem想定） */
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  opacity: 0.85;
+  margin-bottom: 12px;
   }
+
 
 }
