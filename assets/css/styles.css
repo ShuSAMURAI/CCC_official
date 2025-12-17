@@ -272,6 +272,14 @@ footer {
   font-size: 0.9rem;
 }
 
+.ccc-logo {
+  font-size: 3.6rem;     /* 約4倍 */
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  opacity: 0.85;
+  margin-bottom: 30px;
+}
+
 .table {
   width: 100%;
   border-collapse: collapse;
@@ -365,10 +373,7 @@ footer {
     flex-direction: column;
     align-items: flex-start;
   }
-  .ccc-logo {
-  opacity: 0.85;
-  margin-bottom: 30px;
-  }
+
 
 
 }
